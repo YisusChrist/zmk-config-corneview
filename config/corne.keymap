@@ -53,7 +53,7 @@
 
             bindings = <
 &kp TAB    &kp EXCL  &kp DOUBLE_QUOTES  &kp HASH  &kp DLLR  &kp PRCNT    &kp AMPERSAND  &kp SLASH  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp EQUAL  &kp QUESTION
-&kp LCTRL  &trans    &kp AT             &trans    &trans    &trans       &kp MINUS      &kp CARET  &kp LBKT              &kp RBKT               &kp BSLH   &kp GRAVE
+&kp LCTRL  &trans    &kp AT             &trans    &trans    &trans       &kp MINUS      &kp CARET  &kp LBKT              &kp RBKT               &kp BSLH   &kp SINGLE_QUOTE
 &kp LSHFT  &trans    &trans             &trans    &trans    &trans       &kp UNDER      &kp PLUS   &kp LBRC              &kp RBRC               &kp PIPE   &kp TILDE
                                         &kp LGUI  &trans    &kp SPACE    &kp RET        &trans     &kp RALT
             >;
